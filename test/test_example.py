@@ -1,5 +1,5 @@
 import unittest
-from check import find_max
+from example import find_max
 
 class TestFindMax(unittest.TestCase):
 
